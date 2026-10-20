@@ -1,19 +1,19 @@
-# 📦 Gestione Inventario Negozio
+# Store Inventory Management
 
-Un'applicazione semplice e intuitiva per la gestione dei prodotti all'interno del negozio. Questo strumento permette di catalogare gli articoli e visualizzare in ogni momento l'elenco completo delle giacenze.
-
----
-
-## 🚀 Funzionalitá Attuali
-
-- **Salvataggio Prodotti:** Inserimento e registrazione di nuovi articoli con dettagli principali (nome, codice/SKU, quantità, prezzo, categoria).
-- **Visualizzazione Inventario:** Consultazione dell'elenco completo dei prodotti presenti in negozio con aggiornamento dei dati.
+A simple and intuitive application for managing store products. This tool allows you to catalog items and view the complete stock list at any time.
 
 ---
 
-## 🔮 Sviluppi Futuri (In arrivo)
+## Current Features
 
-- [ ] Modifica ed eliminazione rapida dei prodotti
-- [ ] Ricerca e filtraggio avanzato per categoria o codice
-- [ ] Gestione automatica del carico/scarico merce
-- [ ] Avvisi di scorta minima in esaurimento
+- **Product Saving:** Add and register new items with key details (name, SKU/code, quantity, price, category).
+- **Inventory Display:** View the complete list of products available in the store with updated data.
+
+---
+
+## Future Enhancements
+
+- [ ] Quick edit and delete functionality for products
+- [ ] Advanced search and filtering by category or SKU
+- [ ] Automatic stock update (inflow/outflow management)
+- [ ] Low stock threshold alerts
