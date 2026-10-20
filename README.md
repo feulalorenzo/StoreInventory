@@ -7,6 +7,7 @@ A simple and intuitive application for managing store products. This tool allows
 ## Current Features
 
 - **Product Saving:** Add and register new items with key details (name, SKU/code, quantity, price, category).
+- **Product Deletion** Remove a saved product.
 - **Inventory Display:** View the complete list of products available in the store with updated data.
 
 ---
